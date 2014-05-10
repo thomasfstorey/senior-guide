@@ -1,0 +1,12 @@
+/*
+
+Theme Name: Child of Twenty Eleven
+Description: Cool child theme based on Twenty Eleven
+Author: Tom Storey
+Version: 0.0.1
+Template: twentyeleven
+
+*/
+
+/* Imports all styles from the Twenty Eleven stylesheet */
+@import url('../twentytwelve/style.css');
